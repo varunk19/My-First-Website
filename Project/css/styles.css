@@ -1,0 +1,101 @@
+.header{
+    min-height: 85px; 
+    margin: 0px 0px 0px 0px;
+    background-image: radial-gradient(#ff6666, #ccccb3, grey);
+    padding-top: 1px;
+}
+body{
+    background: url(/images/olympic-colour-track.jpg);
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    min-height: auto;
+}
+.htext{
+    margin-top: 0px;
+    text-align: center;
+    color: gold;
+    font-size: 60px;
+    margin-bottom: 3px;
+}
+nav{
+    padding-top: 0px;
+    max-height: 40px;
+    margin-bottom: 30px;
+}
+.nav-link
+{
+    color: black;
+}
+.container{
+    max-width: 600px;
+    max-height: 600px;
+    margin: 0px 30px 6px 6px;
+    float: right;
+}
+.container1{
+    padding: 20px 40px 20px 40px;
+    max-width: 800px;
+    max-height: 570px;
+    min-height: 570px;
+    min-width: auto;
+    margin: 0px 30px 6px 30px;
+    float: left;
+    background-color: limegreen;
+    opacity: 0.8;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.container1 h1{
+    text-align: center;
+    border-bottom: 4px solid white;
+    margin-bottom: 16px;
+}
+.tablecont{
+    max-width: 800px;
+    min-width: 800px;
+    min-height: auto;
+    margin: 0px auto 30px auto;
+    background-color: limegreen;
+    color: white;
+    opacity: 0.8;
+}
+.country{
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+table{
+    color: white;
+    align-self: center;
+    width: 800px;
+}
+th{
+    font-size: 35px;
+    margin-left: 30px;
+    text-align: center;
+    border: 3px solid white;
+}
+td{
+    text-align: center;
+    border: 3px solid white;
+    font-size: 25px;
+    padding-top: 0px;
+}
+.data:hover{
+    background-color: lawngreen;
+}
+h4,p{
+    text-align: center;
+}
+#upcoming{
+    text-align: center;
+    border-bottom: 4px solid white;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.upcont{
+    padding: 7px 40px 20px 40px;
+    max-height: 575px;
+}
